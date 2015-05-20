@@ -15,3 +15,9 @@ The script below demonstrates the possibility to dump a webshell through a redis
     -> webshell <?php phpinfo (); ?>
 [+] Restoring configuration
 </pre>
+
+The script allow you to dump a file to anywhere writable, with arbritrary contents (--webshell parameter)
+
+## legal disclaimer
+
+Using this tool is legit but hacking may not be. The author does not take any responsibility for such activities.
