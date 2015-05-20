@@ -1,6 +1,6 @@
 ## redis-getshell
 
-The script below demonstrates the possibility to dump a webshell with redis server
+The script below demonstrates the possibility to dump a webshell through a redis server
 
 ## usage
 
